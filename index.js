@@ -12,4 +12,5 @@ if (username === username2 && password === password2){
 }
 else{
     alert("invalid info")
+    alert("Please check details again")
 }
